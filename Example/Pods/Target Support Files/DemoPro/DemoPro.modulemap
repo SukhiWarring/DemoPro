@@ -1,0 +1,6 @@
+framework module DemoPro {
+  umbrella header "DemoPro-umbrella.h"
+
+  export *
+  module * { export * }
+}
